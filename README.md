@@ -21,7 +21,7 @@ The program uses **Backtracking Search** and **Arc Consistency** to efficiently 
 - Tkinter library 
 
 ### Steps
-1. Clone this repository:
+Clone this repository:
    ```bash
    git clone https://github.com/sal218/AI-ConstraintSatisfactionProblem.git
 
