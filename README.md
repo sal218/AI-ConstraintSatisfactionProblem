@@ -21,11 +21,11 @@ The program uses **Backtracking Search** and **Arc Consistency** to efficiently 
 - Tkinter library 
 
 ### Steps
-Clone this repository:
+1. Clone this repository:
    ```bash
    git clone https://github.com/sal218/AI-ConstraintSatisfactionProblem.git
 
-
+2. Run ```python csp.py```
 
 ### Link to my CSP video submission:
 
